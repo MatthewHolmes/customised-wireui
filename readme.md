@@ -1,3 +1,4 @@
+Customised wireui to allow for typed entries for time a date into the datepicker
 <p align="center"><img src="https://wireui.dev/wireui/wireui-circle.png" height="100"></p>
 
 <h2><p align="center">WireUi</p></h2>
